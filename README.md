@@ -1,4 +1,4 @@
-# sniff tcp packet
+# Sniff tcp packet
 Capture network traffic packets and analyse them
 
 # Notes
