@@ -7,7 +7,7 @@ from struct import *
 #create an INET, STREAMing socket
 class Socket_listing(socket.socket):
     '''
-    Socket Server handle messages
+    Socket handle
     '''
 
     def __init__(self):
